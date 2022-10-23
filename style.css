@@ -89,8 +89,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   h1 {
-    font-size: 110px;
+    font-size: 48px;
+    line-height: 1.5;
   }
 }
